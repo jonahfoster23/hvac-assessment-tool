@@ -32,6 +32,10 @@ const equipmentTypes = [
   "VAV",
   "Exhaust Fan",
   "Pump",
+  "Fan Coil Unit"
+  "MAU"
+  "ERV"
+  "Cooling Tower"
   "Other",
 ]
 
